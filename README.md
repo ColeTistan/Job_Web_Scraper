@@ -5,3 +5,5 @@ This is a simple job web scraper that allows a client, who is looking for a spec
 - Python 3
 - Beautiful Soup, Pandas and Requests libraries
 
+## Future Updates
+- Parse data into JSON document to develop API
